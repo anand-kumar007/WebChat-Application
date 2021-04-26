@@ -6,7 +6,7 @@ A Realtime Web Chat Application created using Socket.io and Node.js
 - Clone the Repo:
 
 ```bash
-    git clone https://github.com/Akshay-jain22/WebChat-Application.git
+    git clone https://github.com/anand-kumar007/WebChat-Application.git
 ```
 
 - Move to the folder where you cloned the project 
@@ -44,6 +44,6 @@ A Realtime Web Chat Application created using Socket.io and Node.js
 - It will automatically redirect you to the Home page and then ask for Signup or Login.
 
 ## Developers
-- [Akshay Jain](https://github.com/akshay-jain22)
 - [Anand Kumar](https://github.com/anand-kumar007)
+- [Akshay Jain](https://github.com/akshay-jain22)
 - [Ashok Kumar](https://github.com/ashok-2001)
